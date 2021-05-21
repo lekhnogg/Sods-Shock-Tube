@@ -1,4 +1,4 @@
-# Shock-Tube-Simulation-Sod-
+# Sods-Shock-Tube
 This code implicitly models fluid dynamics via a hydrodynamic simulation. 
 We consider a tube filled with fluid. 
 The fluid is separated by a diaphragm placed in the middle of the tube. Each partition contains a different density and pressure. 
